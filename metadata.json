@@ -1,0 +1,6 @@
+{
+  "name": "AURA Mobile | Flagship Mobile Store",
+  "description": "Explore and configure next-generation flagship smartphones, ultra-thin foldables, trade-in valuations, and mobile technology accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
